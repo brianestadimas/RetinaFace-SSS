@@ -8,3 +8,7 @@ starlette
 python-multipart
 Pillow
 deepface
+typing_extensions
+tensorflow
+tf-keras
+insightface
